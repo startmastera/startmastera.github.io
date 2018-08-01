@@ -2039,26 +2039,3 @@ body {
     width: 100% !important;
   }
 }
-.cid-qYBM6cgqTT {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #aaf5ed;
-}
-.cid-qYBM6cgqTT .line {
-  background-color: #149dcc;
-  color: #149dcc;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-qYBM6cgqTT .section-text {
-  padding: 2rem 0;
-}
-.cid-qYBM6cgqTT .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-qYBM6cgqTT .inner-container {
-    width: 100% !important;
-  }
-}
