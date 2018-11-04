@@ -1775,7 +1775,7 @@ body {
 }
 .cid-r8aIXIVGBG {
   padding-top: 120px;
-  padding-bottom: 120px;
+  padding-bottom: 45px;
   background: linear-gradient(0deg, #ffffff, #ffffff);
 }
 .cid-r8aIXIVGBG .mbr-iconfont-social {
@@ -1786,8 +1786,8 @@ body {
   text-decoration: none;
 }
 .cid-r8aNY6VYuf {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 30px;
+  padding-bottom: 60px;
   background-color: #ffffff;
 }
 .cid-r8aNY6VYuf .title {
@@ -1795,6 +1795,7 @@ body {
 }
 .cid-r8aNY6VYuf .mbr-section-subtitle {
   color: #767676;
+  text-align: center;
 }
 .cid-r8aNY6VYuf a:not([href]):not([tabindex]) {
   color: #fff;
