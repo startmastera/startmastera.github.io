@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /project.mobirise
+Sitemap: https://startmastera.com/sitemap.xml
+Host: https://startmastera.com/
+
